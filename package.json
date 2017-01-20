@@ -1,0 +1,22 @@
+{
+  "name": "cli",
+  "version": "1.0.0",
+  "description": "Instructions:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hoangpeterd/CLI.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hoangpeterd/CLI/issues"
+  },
+  "homepage": "https://github.com/hoangpeterd/CLI#readme",
+  "dependencies": {
+    "weather-js": "^1.0.2"
+  }
+}
